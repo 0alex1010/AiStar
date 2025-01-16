@@ -1,7 +1,5 @@
 # AiStar
 Made for mindcraft
 
-Note that you have to instal somthing called mindcraft to make this work
-if you are willing to get mindcraft i have the link
-
-link https://github.com/kolbytn/mindcraft
+Mindcraft: https://github.com/kolbytn/mindcraft
+Install all components of Mindcraft inclouding itself then add this bat file to the folder containing main.js. After that then run the bat file or type "aistar" in cmd
