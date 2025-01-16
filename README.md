@@ -1,0 +1,2 @@
+# AiStar
+Made for mindcraft
